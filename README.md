@@ -1,2 +1,2 @@
-This is a datset from kaggle. Got an accuracy around 86% with just a baseline randomclassifier model.
-Can achieve better accuracy with tuning the model.
+This dataset from Kaggle yielded an accuracy of approximately 86% using a basic random classifier model.
+With model tuning, even better accuracy can be achieved."
